@@ -1,0 +1,18 @@
+.footer-link {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1vw;
+    color: white;
+    margin: 10px 20px;
+  }
+
+
+  footer{
+      background-color: #2e7cf6;
+      color: rgb(209, 199, 199);
+  }
+
+  footer h4{
+      color: white;
+  }
+  
